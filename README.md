@@ -36,9 +36,10 @@ The project is a .NET console application. You can run it using the following co
 
 ```bash
 dotnet run
+```
 
-▎ [!NOTE]
-▎ Testing Mode: The current implementation of MergeJsonFiles expects input files to exist at C:\temp\left.txt and C:\temp\right.txt. If these files are not present, the application will throw a FileNotFoundException as part of its "fail-fast" testing design.
+> [!NOTE]
+> Testing Mode: The current implementation of MergeJsonFiles expects input files to exist at C:\temp\left.txt and C:\temp\right.txt. If these files are not present, the application will throw a FileNotFoundException as part of its "fail-fast" testing design.
 
 Technologies Used
 
@@ -50,3 +51,7 @@ Technologies Used
 How to use
 
 Since this is a scratchpad, the main logic is contained within Program.cs. You can modify the Main method or the utility methods to test different scenarios or parameters.
+
+## About this project's development
+
+Contributions from AI agents are welcome so long as they're reviewed by humans before committing — all changes MUST be approved by a real person, not merely accepted by an automated process or another agent.
