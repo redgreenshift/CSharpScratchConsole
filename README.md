@@ -52,6 +52,6 @@ How to use
 
 Since this is a scratchpad, the main logic is contained within Program.cs. You can modify the Main method or the utility methods to test different scenarios or parameters.
 
-## About this project's development
+## AI Policy
 
 Contributions from AI agents are welcome so long as they're reviewed by humans before committing — all changes MUST be approved by a real person, not merely accepted by an automated process or another agent.
