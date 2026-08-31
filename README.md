@@ -2,6 +2,12 @@
 
 A C# scratchpad for exploring and testing algorithms, utility functions, and file-based data operations.
 
+[![C#](https://img.shields.io/badge/language-C%23-68217A.svg?logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![.NET Framework](https://img.shields.io/badge/Framework-8.0-512BD4.svg?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/platform/support/policy/dotnet-framework)
+[![License: GPL-2.0-only](https://img.shields.io/badge/License-GPL--2.0--only-2D6CDF.svg)](LICENSE)
+
+[![Windows](https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+
 ## Features / Current Implementations
 
 ### 1. Password Generator (`CreatePassword`)
