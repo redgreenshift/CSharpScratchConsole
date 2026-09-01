@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Copyright © 2026 Jared Ivey.
+using System;
 //using System.Collections.Generic;
 //using System.Diagnostics;
 //using System.IO;
